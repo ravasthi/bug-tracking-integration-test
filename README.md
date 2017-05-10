@@ -1,2 +1,2 @@
-# apteligent-bug-tracking-integration-test
+# bug-tracking-integration-test
 Just what it says on the tin.
